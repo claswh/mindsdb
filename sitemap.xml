@@ -5,6 +5,7 @@
 <url> <loc>https://mindsdb.github.io/mindsdb/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/advanced-mindsdb</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/advanced-mindsdb" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/basic-mindsdb</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/basic-mindsdb" /> </url>
+<url> <loc>https://mindsdb.github.io/mindsdb/docs/column_metrics</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/column_metrics" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/config</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/config" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/data-sources</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/data-sources" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/faq</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/faq" /> </url>

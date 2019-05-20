@@ -60,7 +60,7 @@
 
 mdb = mindsdb.Predictor(name=<span class="hljs-string">'multilabel_real_estate_model'</span>)
 mdb.learn(
-    from_data=<span class="hljs-string">"https://raw.githubusercontent.com/mindsdb/mindsdb/master/docs/examples/basic/home_rentals.csv"</span>,
+    from_data=<span class="hljs-string">"https://s3.eu-west-2.amazonaws.com/mindsdb-example-data/home_rentals.csv"</span>,
     to_predict=[<span class="hljs-string">'location'</span>,<span class="hljs-string">'neighborhood'</span>] <span class="hljs-comment"># Array with the names of the columns we can to predict</span>
 )
 </code></pre>
