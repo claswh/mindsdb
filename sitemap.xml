@@ -9,6 +9,7 @@
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/config</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/config" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/data-sources</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/data-sources" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/faq</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/faq" /> </url>
+<url> <loc>https://mindsdb.github.io/mindsdb/docs/google-colab</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/google-colab" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/inside-mindsdb</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/inside-mindsdb" /> </url>
 <url> <loc>https://mindsdb.github.io/mindsdb/docs/installing-mindsdb</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mindsdb.github.io/mindsdb/docs/installing-mindsdb" /> </url>
 </urlset>
