@@ -1,0 +1,4 @@
+Windows 10, Anaconda/python 3.7
+When trying to install on both local environment and running your script in Google colab, I get this error:
+ERROR: Could not find a version that satisfies the requirement torch>=1.1.0.post2 (from lightwood==0.7.3->mindsdb) (from versions: 0.1.2, 0.1.2.post1, 0.1.2.post2, 0.3.1, 0.4.0, 0.4.1, 1.0.0, 1.0.1, 1.0.1.post2, 1.1.0)
+ERROR: No matching distribution found for torch>=1.1.0.post2 (from lightwood==0.7.3->mindsdb
